@@ -1,0 +1,9 @@
+scope: .laser
+synced_files:
+  - id: go.mod
+    path: go.mod
+    hash: "5279860772820529581"
+static_vars:
+  - name: go_version
+    value: 1.20
+dynamic_vars: []
